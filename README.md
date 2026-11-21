@@ -12,7 +12,8 @@ An automated, rate-limited email outreach and status-tracking pipeline built wit
 ## Visual Overview & Architecture
 
 ### 1. Live Canvas Execution
-![Workflow Diagram](docs/workflow-diagram.png)
+<img width="1608" height="686" alt="image" src="https://github.com/user-attachments/assets/82bf6e68-7b93-46a1-b9c4-8d469ff6288f" />
+
 
 ### 2. End-to-End Execution Pipeline
 
